@@ -1,0 +1,10 @@
+1) How long do you think the project will continue? Long-term?
+2) How many devs do you have for Cryptobot subproject (For Golang and Fronend)?
+3) Who are you and what you want to do?
+4) Do you have any specifiction, docs, outlines of the project?
+5) Do you have any Wireframes/Degign?
+6) Do you have management rules, agreements inside team or just hire different freelancers to free work on the project?
+
+5) React to Angular?
+6) Where is your team?
+

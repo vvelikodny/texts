@@ -1,0 +1,8 @@
+Our siggestions about the current project to go ahead:
+
+1) Dockerize all subprojects
+2) Up everything on Docker. It allow us to be server free. Migrate from server to server take few time.
+3) Configure UI with stage & prod servers
+4) Improve security and rules of password sharing
+5) Organize documents of project
+6) Organize team work
